@@ -1,0 +1,2 @@
+# -Network-Security-Monitoring-and-Analysis-with-ELK-pfSense-and-Snort
+This project integrates pfSense and Kali Linux with the ELK Stack for centralized log collection and visualization. Logs from Snort on pfSense and syslog-ng on Kali are forwarded to Logstash running in Docker on Kali. The ELK Stack parses and visualizes these logs to monitor firewall activity, detect threats, and analyze system events in real time.
